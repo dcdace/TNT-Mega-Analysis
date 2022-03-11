@@ -14,6 +14,5 @@ install.packages('ggpubr')
 install.packages('rstatix')
 install.packages(c("MASS", "akima", "robustbase"))
 install.packages(c("akima", "cobs", "robust", "mgcv", "scatterplot3d", "quantreg", "rrcov", "lars", "pwr", "trimcluster", "mc2d", "psych", "Rfit", "DepthProc", "class", "fda", "rankFD"))
+install_github("nicebread/WRS", subdir="pkg")
 install.packages('WRS2')
-install.packages('WRS')
-
