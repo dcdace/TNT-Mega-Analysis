@@ -1,4 +1,4 @@
-id,stid,subid,model,rID,rName,T,NT,coverage
+id,stid,subid,model,rID,roi,T,NT,coverage
 1,01_Levy1,01_Levy1s_604,model_00,1,ch12,0.007320232,0.023502849,99.60629921
 1,01_Levy1,01_Levy1s_635,model_00,1,ch12,-0.038192853,-0.02542412,100
 1,01_Levy1,01_Levy1s_639,model_00,1,ch12,-0.019886187,-0.036451227,96.4664311
